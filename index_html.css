@@ -3,6 +3,6 @@ a:visited { color:#0280E1; }
 a:active { color:#0280E1; } 
 a:hover { color:#B2B3B4; } 
 html, body { min-height: 100% } 
-body { background-color:#FFFFFF; background-image: url(rc_images/back.png); background-position:top left; background-size:cover; padding:0;  margin: 0; }
+body { background-color:#FFFFFF; background-image: url(/back.png); background-position:top left; background-size:cover; padding:0;  margin: 0; }
 .textstyle1 { text-align:right; }
 #audio_7b52e3f5 { vertical-align: bottom; position:relative; display: inline-block; width:228px; height:66px; background:none;  }
